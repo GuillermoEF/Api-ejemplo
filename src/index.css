@@ -1,0 +1,11 @@
+.alado{
+  display: flex;
+  margin: 20px;
+}
+#contenido{
+  margin: auto 400px 100px;
+}
+.datos{
+  text-align: center;
+
+}
